@@ -4,8 +4,8 @@
 Modifiez vos paramètres de connexion à la BD ci-dessous (dans le 'else', lignes 10 à 13)
 ****************/
 
-if(file_exists('../projetBDW/config-bd.php'))  // fichier de configuration "privé" (enseignants)
-	require('../projetBDW/config-bd.php');
+if(file_exists('../projectBDW/config-bd.php'))  // fichier de configuration "privé" (enseignants)
+	require('../projectBDW/config-bd.php');
 else {
 	define('SERVEUR', 'localhost');
 	define('UTILISATRICE', 'p2019597'); // votre login, par exemple p1234567

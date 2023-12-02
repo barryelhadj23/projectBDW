@@ -9,7 +9,7 @@
 $routes = array(
 	'statistique' => array('controleur' => 'controleurStatistiques', 'vue' => 'vueStatistiques'),
 	'service' => array('controleur' => 'controleurService', 'vue' => 'vueService'),
-	'formulaire' => array('controleur' => 'controleurService', 'vue' => 'vueFormulaire'),
+	'AjouterService' => array('controleur' => 'controleurAjouterService', 'vue' => 'vueAjouterService'),
 	'listeService' => array('controleur' => 'controleurService', 'vue' => 'vueListeServices'),
 	'periodeEssai' => array('controleur' => 'controleurService', 'vue' => 'vuePeriodeDessai')
 );

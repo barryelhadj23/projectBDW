@@ -2,8 +2,8 @@
 <br>
 <br>
 <br>
-<h2>Projet BDW</h2>
 <div class="accueil">
+    <h2>Projet BDW</h2>
     <p id="paragDescription">
         Vous pouvez gérer des séries, des épisodes, et les acteur.ice.s.
         <br>
