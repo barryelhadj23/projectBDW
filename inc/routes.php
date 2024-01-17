@@ -10,8 +10,9 @@ $routes = array(
 	'statistique' => array('controleur' => 'controleurStatistiques', 'vue' => 'vueStatistiques'),
 	'service' => array('controleur' => 'controleurService', 'vue' => 'vueService'),
 	'AjouterService' => array('controleur' => 'controleurAjouterService', 'vue' => 'vueAjouterService'),
-	'listeService' => array('controleur' => 'controleurService', 'vue' => 'vueListeServices'),
-	'periodeEssai' => array('controleur' => 'controleurService', 'vue' => 'vuePeriodeDessai')
+	'listeService' => array('controleur' => 'controleurListeServices', 'vue' => 'vueListeServices'),
+	'periodeEssai' => array('controleur' => 'controleurPeriodeDessai', 'vue' => 'vuePeriodeDessai'),
+	'remerciement' => array('controleur' => 'controleurRemerciement', 'vue' => 'vueRemerciement')
 );
 
 // fichiers statiques

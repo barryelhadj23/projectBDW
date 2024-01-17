@@ -1,13 +1,8 @@
-<br>
-<br>
-<br>
-<br>
 <div class="accueil">
-    <h2>Projet BDW</h2>
     <p id="paragDescription">
-        Vous pouvez gérer des séries, des épisodes, et les acteur.ice.s.
+        Bienvenue sur le Citizen Square
         <br>
-        Utilisez le menu à gauche pour découvrir les fonctionnalités de ce site.
+        Utilisez le menu  pour découvrir les fonctionnalités de ce site.
     </p>
 
     <p>Quelques fonctionnalités</p>

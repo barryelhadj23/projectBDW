@@ -1,9 +1,8 @@
 <!-- header1 -->
 <header>
-	<div style="float:left;">
+	<div style="...">
 		<a href="index.php">
-			<!--<img src="img/sheep.png" width="50%" height="50%"> -->
-			<i class="fa-brands fa-servicestack fa-beat-fade" style="color: #00ff00;"></i>
+			<!--<img src="img/logo.png" width="50%" height="50%">-->
 		</a>
 	</div>
     <!-- le fameux titre <h1> à personnaliser ! faites-vous plaisir... -->
